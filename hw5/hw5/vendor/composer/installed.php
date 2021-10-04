@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'b8531088c6ca2d2e123ec748759a4b7048c76fd6',
+        'reference' => '31624397346d1964097e9be7bce69822563bba36',
         'name' => 'lytkinnewproject/lytkinnewproject',
         'dev' => true,
     ),
@@ -34,7 +34,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'b8531088c6ca2d2e123ec748759a4b7048c76fd6',
+            'reference' => '31624397346d1964097e9be7bce69822563bba36',
             'dev_requirement' => false,
         ),
         'psr/cache' => array(
